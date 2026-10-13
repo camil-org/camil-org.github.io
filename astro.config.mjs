@@ -6,8 +6,8 @@ import { frameworkName } from './src/config/site.ts';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://nicolasfarabegoli.it',
-  	base: '/locix-website/',
+	site: 'https://camil-org.github.io',
+  	base: '/',
 	integrations: [
 		starlight({
 			title: frameworkName,
